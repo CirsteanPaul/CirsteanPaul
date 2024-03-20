@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Terraform and ApacheSpark**
 
-- 💬 Ask me about **react, .NET, c++**
+- 💬 Ask me about **React, .NET, C++**
 
 - 📫 How to reach me **paul3ioan@gmail.com**
 
