@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **React, .NET, C++**
 
+- ❓ Want to play chess?
+  
 - 📫 How to reach me **paul3ioan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
